@@ -46,4 +46,4 @@ else
 fi
 
 
-#/usr/bin/htpasswd -b -c /etc/squid/passwd USERNAME_HERE PASSWORD_HERE
+/usr/bin/htpasswd -b -c /etc/squid/passwd sunny sunny
